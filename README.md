@@ -3,7 +3,7 @@ CTF difficulty images
 
 |Difficulty|Image|
 |----------|-----|
-|Not determined (NA)|![NA](https://github.com/TheRealH0u/difficulty/blob/main/NA.png?raw=true)|
+|To Be Determined (TBD)|![TBD](https://github.com/TheRealH0u/difficulty/blob/main/tbd.png?raw=true)|
 |Noob|![Noob](https://github.com/TheRealH0u/difficulty/blob/main/noob.png?raw=true)|
 |Easy|![Easy](https://github.com/TheRealH0u/difficulty/blob/main/easy.png?raw=true)|
 |Medium|![Medium](https://github.com/TheRealH0u/difficulty/blob/main/medium.png?raw=true)|
